@@ -63,7 +63,7 @@ Every architectural decision I make is deliberate. Every abstraction has a purpo
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gi" width="100%"/>
 
 ## 🤖 AI Engineering Journey — Where I'm Headed
 
@@ -105,7 +105,7 @@ I don't just study AI — I experiment with it inside real software contexts. My
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gi" width="100%"/>
 
 <div align="center">
 
@@ -153,7 +153,7 @@ I don't just study AI — I experiment with it inside real software contexts. My
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gi" width="100%"/>
 
 ## 🚀 Featured Projects — What I've Built
 
